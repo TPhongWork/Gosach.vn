@@ -26,6 +26,7 @@
             ],
             "styles": [
               "src/styles.css"
+
             ],
             "scripts": [
               "src/lib/bootstrap/js/bootstrap.bundle.min.js",
