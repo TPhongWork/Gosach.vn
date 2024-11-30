@@ -25,8 +25,13 @@
               "src/lib"
             ],
             "styles": [
-              "src/styles.css"
-
+              "src/styles.css",
+              "src/lib/font-awesome/css/font-awesome.min.css",
+              "src/lib/animate/animate.min.css",
+              "src/lib/ionicons/css/ionicons.min.css",
+              "src/lib/owlcarousel/assets/owl.carousel.min.css",
+              "src/lib/lightbox/css/lightbox.min.css",
+              "src/lib/bootstrap/css/bootstrap.min.css"
             ],
             "scripts": [
               "src/lib/bootstrap/js/bootstrap.bundle.min.js",
@@ -103,7 +108,13 @@
               "src/lib"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/lib/font-awesome/css/font-awesome.min.css",
+              "src/lib/animate/animate.min.css",
+              "src/lib/ionicons/css/ionicons.min.css",
+              "src/lib/owlcarousel/assets/owl.carousel.min.css",
+              "src/lib/lightbox/css/lightbox.min.css",
+              "src/lib/bootstrap/css/bootstrap.min.css"
             ],
             "scripts": [
               "src/lib/bootstrap/js/bootstrap.bundle.min.js",
